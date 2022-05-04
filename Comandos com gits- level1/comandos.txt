@@ -1,0 +1,9 @@
+# Primeiros comandos com gits
+
+##iniciar o git, iniciar o versionamento e criar um commit
+
+- Git init= iniciar o repositorio
+- Git add= mover arquivos e dar inicio aos comandos
+- Git commit= criar o commit
+- Git status= vai monitorar os status do arquivo
+- mv= mover arquivos

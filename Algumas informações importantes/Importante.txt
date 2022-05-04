@@ -1,0 +1,5 @@
+-git add= para deixar todos os arquivos da workspace em staged
+-Arquivos unmodified: edita o arquivo e muda para modified comparando o sha1 dos arquivos
+-Arquivos modified: ele vai para o staged que vai fazer parte de outro arquivo
+-Remover arquivo unmodified= volta para untracked, sem conhecimento deles para o git
+-Staged= se preparando para fazer parte de um commit e retornam ele para o unmodified, tirando uma foto daquele momento, daquele arquivo, daquele commit.

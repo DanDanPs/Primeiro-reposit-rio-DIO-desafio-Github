@@ -1,0 +1,8 @@
+- SHA1= é um algoritmo de incripatação, ele vai embaralhar de uma forma muito específica, a saída dessa incriptação gera um conjunto de caracteres de indentificação de 40 digitos.
+- Objetos fundamentais= Blobs, tress e commits
+1. blobs= contem metadados dentro dele, contem o tipo do objeto, o tamanho dele, \0 e o conteudo do arquivo= sua estrutura.
+2. Trees= armazenam blobs, o bloco basico, a tree armazena e aponta diferentes blobs, também contém metadados e guarda o nome dos arquivos, diferente do blobs.
+3. Commit= aponta para uma tree, para o ultimo commit realizado antes dele, para um autor e uma mensagem
+- Sistema distríbuido= você tem os commits que pode se dizer que são impossiveis de ser alterados, se der um problema na nuvem e o codigo nao existir mais, os outros que tem o codigo também acontecerá algo com elas.
+- Segurança
+- Chave ssh é uma forma de estabelecer uma conexão segura e incriptada entre duas maquinas, por exemplo= servidor do github e sua maquina, gerando duas chaves= uma publica e uma privada.

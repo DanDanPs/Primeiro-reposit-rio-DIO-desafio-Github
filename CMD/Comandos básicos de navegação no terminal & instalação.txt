@@ -1,0 +1,17 @@
+GUI X CLI
+
+CMD= entrar no prompt de comando.
+
+- mudar de pastas, listar pastas, criar pastas/arquivos e deletar pastas/arquivos
+
+-cd = navege entre as pastas /; para retroceder = cd ..  / para limpar o terminal= cls e usar tab para se alto completar o nome das pastas grandes.
+
+-dir = listar e se situar dentro de um sistema operacional
+
+-mkdir = criar uma pasta
+
+-del/rmdir = del= deletar arquivos; rmdir= deletar o reposítorio 
+
+-echo= criar um repositório e >.. .txt
+
+ctrl+L= limpar o terminal
